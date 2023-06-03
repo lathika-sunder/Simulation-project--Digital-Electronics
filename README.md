@@ -1,4 +1,4 @@
-# TITLE: Implementation of Ex-NOR Gate using NOR Gate only
+#  Implementation of Ex-NOR Gate using NOR Gate only
 ## THEORY:
 An Ex-NOR gate, also known as an Exclusive-NOR gate, is a logic gate that produces a HIGH output only when the number of HIGH inputs is even. It behaves like an equality comparator, producing a HIGH output when the inputs are equal.
 
